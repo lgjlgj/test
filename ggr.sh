@@ -1,5 +1,4 @@
 #!/bin/sh
-git config --global core.
 
 git config --global user.email jasondu@hotmail.com.au
 git config --global user.name "Jason Du"
